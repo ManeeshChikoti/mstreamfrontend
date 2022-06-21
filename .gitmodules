@@ -1,0 +1,6 @@
+[submodule "mstrreamadmin"]
+	path = mstrreamadmin
+	url = https://github.com/ManeeshChikoti/mstrreamadmin.git
+[submodule "mstreamuser"]
+	path = mstreamuser
+	url = https://github.com/ManeeshChikoti/mstreamuser.git
